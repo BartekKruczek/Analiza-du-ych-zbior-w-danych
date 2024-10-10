@@ -1,1 +1,1 @@
-# Analiza-du-ych-zbior-w-danych
+# Analiza-duzych-zbiorow-danych
