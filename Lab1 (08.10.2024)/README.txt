@@ -1,0 +1,1 @@
+Mapka z zadania nr 6 się nie wyeksporotwała do pliku .html. Działa z poziomu .ipynb z wykorzystaniem pliku GeoLite2-City.mmdb
